@@ -45,13 +45,13 @@ Neurosis is a brute force program for find facebook passwords  <br><br>
    iii) go path to folder e.x /root/neurosis <br>
    iv) run the neurosis script (insert id or email to vitcim and select a wordlist) <br>
        e.x perl ./neurosis facebook@gmail.com wordlist.txt <br>
-       if you find the password you will see it in green letters <br><br>
-
-
-2) Note 
+       
+2) Note for wordlists
   <br>
     If the available lists do not serve you then you can make some of your own with the crunch program 
   <br><br>
+  
+  if you find the password you will see it in green letters <br>
   
   ![img/neurosis](img/neurosis.png) 
   
