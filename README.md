@@ -1,5 +1,4 @@
- <h2>  <b style='color:red'> Neurosis </b> is a brute force program for find facebook passwords </h2> <br><br>
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+ <h2 style="color:red"> Neurosis </b> is a brute force program for find facebook passwords </h2> <br><br>
   <table>
   
    <tr>
