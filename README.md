@@ -7,8 +7,7 @@ Neurosis is a brute force program for find facebook passwords  <br><br>
   ii) Debian-based (ubuntu etc) ![img/debian](img/debian.png) <br>
   iii) MEPIS-based  ![img/mepis](img/mepis.png) <br>
   iv) Gentoo-based ![img/gentoo](img/gentoo.png) <br>
-  vi) Slackware-based ![img/slackware](img/slackware.png) <br>
-  vii) Independent ![img/indepented](img/intepented.png) <br>
+  vi) Slackware-based ![img/slackware](img/slackware.png) <br><br>
 
 1) How to use neurosis <br><br>
    i) download the project <br>
