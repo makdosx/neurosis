@@ -1,7 +1,6 @@
 Neurosis is a brute force program for find facebook passwords  <br><br>
 
 1) How to use neurosis <br><br>
-
    i) download the project <br>
    ii) extract to folder and chmod 777 all files e.x chmod -R 777 /root/neurosis <br>
    iii) go path to folder e.x /root/desktop/neurosis <br>
