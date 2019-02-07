@@ -5,7 +5,7 @@ Neurosis is a brute force program for find facebook passwords  <br><br>
     System requirements 
    <br><br>
    
-  <img align="left" width="100" height="100" src="img/os.png"> 
+  <img align="left" width="100" height="100" src="img/os.jpg"> 
       OS System:  
     <br><br>
  
@@ -14,7 +14,7 @@ Neurosis is a brute force program for find facebook passwords  <br><br>
     <br><br>
     
   ii) Debian-based 
-      <img align="left" width="100" height="100" src="img/debian.png"> 
+      <img align="left" width="100" height="100" src="img/debian.jpg"> 
       <br><br>
       
   iii) MEPIS-based  
@@ -22,11 +22,11 @@ Neurosis is a brute force program for find facebook passwords  <br><br>
       <br><br>
       
   iv) Gentoo-based 
-      <img align="left" width="100" height="100" src="img/gentoo.png"> 
+      <img align="left" width="100" height="100" src="img/gentoo.jpg"> 
      <br><br>
      
   vi) Slackware-based 
-       <img align="left" width="100" height="100" src="img/slackware.png">       
+       <img align="left" width="100" height="100" src="img/slackware.jpg">       
       <br><br><br>
 
 1) How to use neurosis <br><br>
