@@ -1,8 +1,7 @@
 Neurosis is a brute force program for find facebook passwords  <br><br>
 
   
-  <img align="left" width="100" height="100" src="img/system_requirements.png">   
-    System requirements 
+  <img align="left" width="100" height="100" src="img/system_requirements.png">  System requirements 
    <br><br>
    
   <img align="left" width="100" height="100" src="img/os.jpg"> 
