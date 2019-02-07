@@ -1,32 +1,43 @@
 Neurosis is a brute force program for find facebook passwords  <br><br>
 
+  <table>
   
-  <img align="left" width="100" height="100" src="img/system_requirements.png">  System requirements 
-   <br><br>
+    <tr>
+      <td> System requirements </td>
+      <td> <img width="100" height="100" src="img/system_requirements.png"> </td>
+   <tr>
    
-  <img align="left" width="100" height="100" src="img/os.jpg"> 
-      OS System:  
-    <br><br>
+  <tr>
+   <td>  OS System: </td>
+   <td> <img align="left" width="100" height="100" src="img/os.jpg"> </td>
+  </tr>
  
- i) RPM-based (Red Hat Linux, CentOS, Fedora, openSUSE, Mandrake Linux etc)      
-     <img align="right" width="100" height="100" src="img/rpm.png">   
-    <br><br>
-    
-  ii) Debian-based 
-      <img align="left" width="100" height="100" src="img/debian.jpg"> 
-      <br><br>
-      
-  iii) MEPIS-based  
-       <img align="left" width="100" height="100" src="img/mepis.png"> 
-      <br><br>
-      
-  iv) Gentoo-based 
-      <img align="left" width="100" height="100" src="img/gentoo.jpg"> 
-     <br><br>
+ <tr>
+  <td> RPM-based (Red Hat Linux, CentOS, Fedora, openSUSE, Mandrake Linux etc) </td>     
+  <td>   <img align="right" width="100" height="100" src="img/rpm.png"> </td>   
+</tr>
+  
+ <tr>
+  <td> Debian-based </td>
+  <td> <img align="left" width="100" height="100" src="img/debian.jpg"> </td>
+ </tr>
      
-  vi) Slackware-based 
-       <img align="left" width="100" height="100" src="img/slackware.jpg">       
-      <br><br><br>
+ <tr>    
+  <td> MEPIS-based </td> 
+  <td> <img align="left" width="100" height="100" src="img/mepis.png"> </td> 
+</tr>
+
+<tr>
+ <td> Gentoo-based </td>
+  <td> <img align="left" width="100" height="100" src="img/gentoo.jpg"> </td>
+</tr>
+     
+<tr>     
+  <td> Slackware-based </td>
+  <td> <img align="left" width="100" height="100" src="img/slackware.jpg"> </td>      
+</tr>
+
+</table>
 
 1) How to use neurosis <br><br>
    i) download the project <br>
